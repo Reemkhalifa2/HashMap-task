@@ -4,7 +4,6 @@ public class EmployeeClearDemo {
     public static void main(String[] args) {
         //Declare a HashMap variable
         HashMap<Integer,String > employees = new HashMap<>();
-
         //add record to the map
         employees.put(123,"Ali");
         employees.put(124,"Reem");
