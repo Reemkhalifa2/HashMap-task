@@ -22,6 +22,7 @@ public class EmployeeSizeDemo {
         //.Use the size() method to get the size of the map
         System.out.println("The size of the Employee map :" + employees.size());
 
+
         employees.put(128, "Sara");
         System.out.println(employees);
         System.out.println("The size of the Employee map :" + employees.size());
