@@ -16,6 +16,7 @@ public class EmployeeSizeDemo {
         for(Map.Entry<Integer,String > emp : employees.entrySet()){
             System.out.println("Employee ID: " + emp.getKey() + " Employee Name: " + emp.getValue());
 
+
         }
 
         //.Use the size() method to get the size of the map
