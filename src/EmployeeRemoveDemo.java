@@ -18,7 +18,7 @@ public class EmployeeRemoveDemo {
 
         }
 
-        //.Use the get() method to remove the employee specific ID
+        //.Use the remove() method to remove the employee specific ID
         employees.remove(127);
         System.out.println(employees);
 
