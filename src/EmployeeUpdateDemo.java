@@ -16,7 +16,6 @@ public class EmployeeUpdateDemo {
         for(Map.Entry<Integer,String > emp : employees.entrySet()){
             System.out.println("Employee ID: " + emp.getKey() + " Employee Name: " + emp.getValue());
 
-
         }
         employees.put(124, "Fatma");
         System.out.println(employees);
