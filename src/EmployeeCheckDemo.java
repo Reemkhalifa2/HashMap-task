@@ -16,6 +16,7 @@ public class EmployeeCheckDemo {
         for(Map.Entry<Integer,String > emp : employees.entrySet()){
             System.out.println("Employee ID: " + emp.getKey() + " Employee Name: " + emp.getValue());
 
+
         }
 
         //Use containsKey() to check whether a specific employee ID exists
