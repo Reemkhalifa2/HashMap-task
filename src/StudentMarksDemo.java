@@ -15,7 +15,7 @@ public class StudentMarksDemo {
         //Display the HashMap
         System.out.println(students);
         //Use get() to display the mark of one specific student
-        System.out.println(students.containsKey(127));
+        System.out.println(students.get(127));
         //Use containsKey() to check whether a specific student ID exists
         System.out.println(students.containsKey(124));
 
