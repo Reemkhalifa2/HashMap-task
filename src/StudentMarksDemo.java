@@ -29,7 +29,7 @@ public class StudentMarksDemo {
         System.out.println(students);
 
         // size() to display the total number of student records
-        students.size();
+        System.out.println(students.size());
 
 
 
