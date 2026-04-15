@@ -13,6 +13,7 @@ public class StudentMapDemo {
         studentMap.put(104, "Nasser");
         studentMap.put(105, "Noor");
 
+
         //Display all students
         System.out.println(studentMap);
 
