@@ -13,7 +13,6 @@ public class EmployeeEmptyDemo {
         employees.put(125,"Huda");
         employees.put(126,"Nasser");
         employees.put(127,"Noor");
-
         //Display all elements in the HashMap
         for(Map.Entry<Integer,String > emp : employees.entrySet()){
             System.out.println("Employee ID: " + emp.getKey() + " Employee Name: " + emp.getValue());
