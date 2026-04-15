@@ -26,7 +26,7 @@ public class CourseTrainerDemo {
         // Display updated map
         System.out.println(CourseTrainerHashMap);
 
-        // Remove a book
+        // Remove a course
         CourseTrainerHashMap.remove("Math");
         System.out.println(CourseTrainerHashMap);
 
